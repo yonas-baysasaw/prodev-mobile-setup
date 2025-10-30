@@ -3,7 +3,7 @@ import { StyleSheet, View, Text } from "react-native";
 export default function HomeScreen() {
   return (
     <View style={styles.container}>
-      <text>Entry Screen - Awesome</text>
+      <Text>Entry Screen - Awesome</Text>
       <Text style={styles.largeText}>
         Typescript is great if you practice more
       </Text>
